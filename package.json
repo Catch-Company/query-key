@@ -1,0 +1,29 @@
+{
+  "name": "query-key",
+  "version": "0.0.1",
+  "description": "Shareable state with query params",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catch-Company/query-key.git"
+  },
+  "keywords": [
+    "share;query-params;link;state"
+  ],
+  "author": "catchco",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Catch-Company/query-key/issues"
+  },
+  "homepage": "https://github.com/Catch-Company/query-key#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "pako": "^2.1.0"
+  }
+}
